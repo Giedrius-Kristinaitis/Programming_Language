@@ -1,5 +1,7 @@
 # Programming_Language
-Simple programing language created with C, lex and yacc
+Simple programing language created with C, lex and yacc.
+
+C code needs refactoring and optimization, but the goal was to create a working thing
 
 Running on Windows:
 ```
