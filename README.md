@@ -12,7 +12,7 @@ lang.exe <input
 Input file specified in ```lang.exe <input``` contains language code
 
 Sample code:
-```
+```javascript
 print("Testing arithmetics");
 
 var a: int = 100;
